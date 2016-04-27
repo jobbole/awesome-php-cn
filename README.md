@@ -10,9 +10,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 基于 awesome-php 资源列表，我们将对各个资源项进行编译整理。
 - 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[BlockAlertsAnd-ActionSheets：一个支持block的弹出框](http://hao.jobbole.com/blockalertsand-actionsheets-ios/)》
-  - 《[MBProgressHUD：一个不错的进度提示工具](http://hao.jobbole.com/mbprogresshud-ios/)》
-  - 《[Wonderful：不仅仅是一个酷炫的颜色库](http://hao.jobbole.com/wonderful/)》
+  - 《[Snappy：压缩工具的 PHP 扩展](http://hao.jobbole.com/snappy-php/)》
+  - 《[phy-yaf：一个用C语言编写的php框架](http://hao.jobbole.com/phy-yaf/)》
 
 * * *
 
@@ -825,3 +824,8 @@ _阅读PHP内核或性能相关的资料_
 *   [PHP Evaluation Order](https://gist.github.com/nikic/6699370) -一篇关于PHP评估顺序的文章
 *   开发人员的PHP源代码： [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html) -关于PHP源代码的系列
 *   垃圾收集： [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) 关于PHP垃圾收集原理的系列
+
+
+<h3 id="weibo-weixin">微信公众号</h3>
+* PHP开发者：专注分享 PHP 开发相关的技术文章和工具资源
+<br><img src="http://ww1.sinaimg.cn/small/63918611gw1epb2cb1xq0j2046046dgv.jpg" width=150 height=150>
