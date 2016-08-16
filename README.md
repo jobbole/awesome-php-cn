@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、You
+- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -712,7 +712,7 @@ _支持PHP的集成开发环境_
 
 *   Netbeans：一个支持PHP和HTML5的IDE [官网](https://netbeans.org/)
 *   Eclipse for PHP Developers：一个基于Eclipse平台的PHP IDE [官网](https://www.eclipse.org/downloads/)
-*   PhpStorm：一个商业PHP IDE [官网](http://www.jetbrains.com/phpstorm/)
+*   [PhpStorm](http://hao.jobbole.com/phpstorm/)：一个商业PHP IDE [官网](http://www.jetbrains.com/phpstorm/)
 
 ## Web应用
 
