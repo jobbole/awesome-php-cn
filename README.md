@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、You
+- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、[邢敏](http://github.com/dfghj44444)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -617,7 +617,7 @@ _访问第三方API的库_
 _帮组构建PHP扩展的库_
 
 *   Zephir：用于开发PHP扩展，且介于PHP和C++之间的编译语言 [官网](https://github.com/phalcon/zephir)
-*   PHP CPP：一个开发PHP扩展的C++库 [官网](http://www.php-cpp.com/)
+*   [PHP CPP](http://hao.jobbole.com/php-cpp/)：一个开发PHP扩展的C++库 [官网](http://www.php-cpp.com/)
 
 ## 杂项
 
