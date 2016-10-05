@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、[邢敏](http://github.com/dfghj44444)、You
+- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、[邢敏](http://github.com/dfghj44444)、[冰斌](http://hao.jobbole.com/author/libing1209/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -117,6 +117,7 @@ _其他相关的微型框架和路由_
 *   Slim Skeleton：Slim架构 [官网](https://github.com/codeguy/Slim-Skeleton)
 *   Slim View：Slim的自定义视图集合 [官网](https://github.com/codeguy/Slim-Views)
 *   Slim Middleware：Slim的自定义中间件集合 [官网](https://github.com/codeguy/Slim-Middleware)
+*   [phy-yaf](http://hao.jobbole.com/phy-yaf/)：一个用C语言编写的php框架 [官网](http://www.php.net/manual/en/book.yaf.php)
 
 ## 模板
 
