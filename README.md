@@ -243,7 +243,7 @@ _持续集成的库和应用_
 *   Travis CI：一个持续集成平台 [官网](https://travis-ci.org/)
 *   PHPCI：一个PHP的开源持续集成平台 [官网](http://www.phptesting.org/)
 *   Sismo：一个持续测试服务库 [官网](http://sismo.sensiolabs.org/)
-*   PHP 支持[Jenkins](http://jenkins-ci.org/)一个 [官网](http://jenkins-php.org/index.html)的持续集成平台
+*   Jenkins-PHP：支持[Jenkins](http://jenkins-ci.org/)的一个持续集成平台 [官网](http://jenkins-php.org/index.html)
 *   JoliCi：一个用PHP编写的由Docker支持的持续集成客户端 [官网](https://github.com/jolicode/JoliCi)
 
 ## 文档
@@ -266,7 +266,7 @@ _生成安全的随机数，加密数据，扫描漏洞的库_
 *   PHPSecLib：一个纯PHP安全通信库 [官网](http://phpseclib.sourceforge.net/)
 *   TCrypto：一个简单的键值加密存储库 [官网](https://github.com/timoh6/TCrypto)
 *   IDS： 一个结构化的PHP安全层 [PHP 官网](https://github.com/PHPIDS/PHPIDS)
-*   SSH：一个试验的面向对象的SSH包装库 [PHP 官网](https://github.com/Herzult/php-ssh)
+*   PHP-SSH：一个试验的面向对象的SSH包装库 [官网](https://github.com/Herzult/php-ssh)
 *   IniScan：一个扫描PHP INI文件安全的库 [官网](https://github.com/psecio/iniscan)
 *   SensioLabs Security Check：一个为检查Composer依赖提供安全建议的web工具 [官网](https://security.sensiolabs.org/)
 *   Zed：一个集成的web应用渗透测试工具 [官网](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
@@ -275,11 +275,11 @@ _生成安全的随机数，加密数据，扫描漏洞的库_
 
 _处理和存储密码的库和工具_
 
-*   Compat：一个新的PHP5.5密码函数的兼容库 [Password 官网](https://github.com/ircmaxell/password_compat)
+*   Password Compat：一个新的PHP5.5密码函数的兼容库 [官网](https://github.com/ircmaxell/password_compat)
 *   phpass： 一个便携式的密码哈希框架 [官网](http://www.openwall.com/phpass/)
 *   PHP Password Lib：一个生成和校验密码的库 [官网](https://github.com/ircmaxell/PHP-PasswordLib)
-*   Password Policy： 一个PHP和JavaScript的密码策略库 [官网](https://github.com/ircmaxell/password-policy)
-*   Password Validator： 校验和升级密码哈希的库 [官网](https://github.com/jeremykendall/password-validator)
+*   Password Policy：一个PHP和JavaScript的密码策略库 [官网](https://github.com/ircmaxell/password-policy)
+*   Password Validator：校验和升级密码哈希的库 [官网](https://github.com/jeremykendall/password-validator)
 *   Zxcvbn PHP：一个基于Zxcvbn JS的现实的PHP密码强度估计库 [官网](https://github.com/bjeavons/zxcvbn-php)
 
 ## 代码分析
@@ -538,7 +538,7 @@ _过滤和验证数据的库_
 *   Upload：一个处理文件上传和验证的库 [官网](https://github.com/codeguy/Upload)
 *   DMS Filter：一个注释过滤库 [官网](https://github.com/rdohms/DMS-Filter)
 *   MetaYaml：一个支持YAML,JSON和XML的模式验证库 [官网](https://github.com/romaricdrigon/MetaYaml)
-*   ISO-codes：验证各种ISO和ZIP编码的库(IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN) [官网](https://github.com/ronanguilloux/IsoCodes)
+*   ISO-codes：验证各种ISO和ZIP编码的库(IBAN、SWIFT/BIC、BBAN、VAT、SSN、UKNIN) [官网](https://github.com/ronanguilloux/IsoCodes)
 
 ##  REST API
 
@@ -719,7 +719,7 @@ _支持PHP的集成开发环境_
 
 _基于Web的应用和工具_
 
-*   3V4L[官网](http://3v4l.org/)一个在线的PHP shell
+*   3V4L：一个在线的PHP shell [官网](http://3v4l.org/)
 *   DBV：一个数据库版本控制应用 [官网](http://dbv.vizuina.com/)
 *   PHP Queue：一个管理后端队列的应用 [官网](https://github.com/CoderKungfu/php-queue)
 *   Composer as a Service：作为一个zip文件下载Composer包的工具 [官网](http://composer.borreli.com/)
