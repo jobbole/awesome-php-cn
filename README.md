@@ -79,7 +79,7 @@ _Web开发框架_
 *   Yii2： 另一个PHP框架 [官网](https://github.com/yiisoft/yii2/)
 *   Nette： 另一个由个体组件组成的框架 [官网](http://nette.org/)
 *   PPI Framework 2：一个互操作性框架 [官网](http://www.ppi.io/)
-*   Phalcon：通过C扩展实现的框架 [官网](http://phalconphp.com/en/)
+*   [Phalcon](http://hao.jobbole.com/phalcon/)：通过C扩展实现的框架 [官网](http://phalconphp.com/en/)、[Github](https://github.com/phalcon/cphalcon)
 
 ## 其他框架
 
