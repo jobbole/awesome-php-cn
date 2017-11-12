@@ -714,7 +714,7 @@ _支持PHP的集成开发环境_
 *   Netbeans：一个支持PHP和HTML5的IDE [官网](https://netbeans.org/)
 *   Eclipse for PHP Developers：一个基于Eclipse平台的PHP IDE [官网](https://www.eclipse.org/downloads/)
 *   [PhpStorm](http://hao.jobbole.com/phpstorm/)：一个商业PHP IDE [官网](http://www.jetbrains.com/phpstorm/)
-*   [Sublime Text ](http://www.sublimetext.com/)
+*   [Sublime Text ]: 一个轻量级的PHP IDE [官网](http://www.sublimetext.com/)
 
 ## Web应用
 
