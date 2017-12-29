@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、[邢敏](http://github.com/dfghj44444)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[wispedia](http://www.jobbole.com/members/wispedia/)、[CmderQ](https://github.com/CmderQ)、You
+- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、[邢敏](http://github.com/dfghj44444)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[wispedia](http://www.jobbole.com/members/wispedia/)、[CmderQ](https://github.com/CmderQ)、[kevinskywalker](https://github.com/kevinskywalker)、You
 
 注：名单不分排名，不定期补充更新
 
