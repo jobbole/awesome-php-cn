@@ -72,14 +72,15 @@ _其他的相关依赖管理_
 
 _Web开发框架_
 
-*   Symfony2：一个独立组件组成的框架 [官网](http://symfony.com/)
-*   Zend Framework 2：另一个由独立组件组成的框架 [官网](http://framework.zend.com/)
-*   Laravel 4：另一个PHP框架 [官网](http://laravel.com/)
+*   Symfony 4：一个独立组件组成的框架 [官网](http://symfony.com/)
+*   Zend Framework 3：另一个由独立组件组成的框架 [官网](http://framework.zend.com/)
+*   Laravel 5：另一个PHP框架 [官网](http://laravel.com/)
 *   Aura PHP：独立组件的框架 [官网](http://auraphp.com/)
 *   Yii2： 另一个PHP框架 [官网](https://github.com/yiisoft/yii2/)
 *   Nette： 另一个由个体组件组成的框架 [官网](http://nette.org/)
 *   PPI Framework 2：一个互操作性框架 [官网](http://www.ppi.io/)
 *   [Phalcon](http://hao.jobbole.com/phalcon/)：通过C扩展实现的框架 [官网](http://phalconphp.com/en/)、[Github](https://github.com/phalcon/cphalcon)
+*   [phy-yaf](http://hao.jobbole.com/phy-yaf/)：一个用C语言编写的php框架 [官网](http://www.php.net/manual/en/book.yaf.php)
 
 ## 其他框架
 
@@ -92,45 +93,53 @@ _其他Web开发框架_
 
 _来自Web开发框架的独立组件_
 
-*   Symfony2 Components：Symfony2组件 [官网](http://symfony.com/doc/master/components/index.html)
-*   Zend Framework 2 Components：ZF2组件 [官网](https://packages.zendframework.com/)
+*   Symfony Components：Symfony组件 [官网](http://symfony.com/doc/master/components/index.html)
+*   Zend Framework Components：ZF组件 [官网](https://packages.zendframework.com/)
 *   Aura Components：PHP5.4组件包 [官网](http://auraphp.github.com/)
 *   Hoa Project：另一个PHP组件包 [官网](http://hoa-project.net/En/)
 
 ## 微型框架
 
-_微型框架和路由_
-
-*   Silex：基于Symfony2组件的微型框架 [官网](http://silex.sensiolabs.org/)
-*   Slim：另一个简单的微型框架 [官网](http://www.slimframework.com/)
+*   Silex：基于Symfony2组件的微型框架 [官网](http://silex.sensiolabs.org/) [官方构建骨架(Skeleton)](https://github.com/fabpot/Silex-Skeleton)
+*   Slim：另一个简单的微型框架 [官网](http://www.slimframework.com/) [官方构建骨架(Skeleton)](https://github.com/codeguy/Slim-Skeleton)
+*   Zend Expressive：Zend官方提供的微框架构建, 基于PSR(3/7/15)实现 [官网](https://docs.zendframework.com/zend-expressive/)  [官方构建骨架(Skeleton)](https://github.com/zendframework/zend-expressive-skeleton)
 *   Bullet PHP：用于构建REST APIs的微型框架 [官网](http://bulletphp.com/)
-*   Fast Route：快速路由库 [官网](https://github.com/nikic/FastRoute)
-*   Pux：另一个快速路由库 [官网](https://github.com/c9s/Pux)
 
-## 其他微型框架
+_框架调试_
 
-_其他相关的微型框架和路由_
-
-*   Silex Skeleton：Silex的项目架构 [官网](https://github.com/fabpot/Silex-Skeleton)
 *   Silex Web Profiler：Silex web调试工具条 [官网](https://github.com/silexphp/Silex-WebProfiler)
-*   Stack： Silex/Symfony的可堆叠中间件库 [官网](https://github.com/stackphp)
-*   Slim Skeleton：Slim架构 [官网](https://github.com/codeguy/Slim-Skeleton)
-*   Slim View：Slim的自定义视图集合 [官网](https://github.com/codeguy/Slim-Views)
+
+## 路由
+
+*   Pux：另一个快速路由库 [官网](https://github.com/c9s/Pux)
+*   Fast Route：快速路由库 [官网](https://github.com/nikic/FastRoute)
+*   Zend Router：Zend 提供的独立路由库 [官网](https://github.com/zendframework/zend-router)
+*   Aura Router：Aura 提供的独立路由库 [官网](https://github.com/auraphp/Aura.Router)
+*   Symfony Routing: Symfony 提供的独立路由库 [官网](https://github.com/symfony/routing)
+
+## 框架中间件
+
+_PSR-15中间件_
+
 *   Slim Middleware：Slim的自定义中间件集合 [官网](https://github.com/codeguy/Slim-Middleware)
-*   [phy-yaf](http://hao.jobbole.com/phy-yaf/)：一个用C语言编写的php框架 [官网](http://www.php.net/manual/en/book.yaf.php)
 
-## 模板
+_Symfony 中间件_
 
-_模板化和词法分析的库和工具_
+*   Stack： Silex/Symfony的可堆叠中间件库 [官网](https://github.com/stackphp)
 
-*   Twig：一个全面的模板语言 [官网](http://twig.sensiolabs.org/)
-*   Twig Cache Extension：一个用于Twig的模板片段缓存库 [官网](https://github.com/asm89/twig-cache-extension)
+## 模板渲染
+
+*   Twig：一个全面的模板语言 [官网](http://twig.sensiolabs.org/) 
+    -   Twig Cache Extension：一个用于Twig的模板片段缓存库 [官网](https://github.com/asm89/twig-cache-extension)
+*   Zend View: Zend Framework 提供的独立模板渲染库 [官网](https://github.com/zendframework/zend-view)
+*   Slim View：Slim的自定义视图集合 [官网](https://github.com/codeguy/Slim-Views)
 *   Mustache：一个Mustache模板语言的PHP实现 [官网](https://github.com/bobthecow/mustache.php)
-*   Phly Mustache：另一个Mustache模板语言的PHP实现 [官网](https://github.com/weierophinney/phly_mustache)
+*   Phly Mustache：另一个Mustache模板语言的PHP实现 [官网](https://github.com/phly/phly-mustache)
 *   MtHaml： 一个HAML 模板语言的PHP实现 [官网](https://github.com/arnaud-lb/MtHaml)
 *   PHPTAL：一个 [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) 模板语言的PHP实现 [官网](http://phptal.org/)
 *   Plates：一个原生PHP模板库 [官网](http://platesphp.com/)
 *   Lex：一个轻量级模板解析器 [官网](https://github.com/pyrocms/lex)
+
 
 ## 静态站点生成器
 
@@ -149,6 +158,8 @@ _用于HTTP和网站爬取的库_
 *   HTTPFul：一个链式HTTP库 [官网](https://github.com/nategood/httpful)
 *   Goutte：一个简单的web爬取器 [官网](https://github.com/fabpot/Goutte)
 *   PHP VCR：录制和重放HTTP请求的库 [官网](http://php-vcr.github.io/)
+*   Zend Http: Zend Framework 提供的HTTP客户端 [官网](https://github.com/zendframework/zend-http)
+*   PHP HTTP: HTTPlug 提供的抽象HTTP客户端库,支持多种适配 [官方](http://docs.php-http.org/)
 
 ## URL
 
@@ -191,13 +202,21 @@ _处理流的库_
 
 ## 依赖注入
 
-_实现依赖注入设计模式的库_
+> 实现依赖注入设计模式的库
+
+_PSR-11 实现_
+
+*   PHP DI：一个使用注释实现的依赖注入 [官网](http://php-di.org/)
+*   Acclimate：一个依赖注入容器和服务定位的通用接口 [官网](https://github.com/jeremeamia/acclimate)
+*   Zend ServiceManager: Zend Framework 提供的 ServiceLocator 模式独立依赖注入应用库 [官网](https://github.com/zendframework/zend-servicemanager)
+*   Symfony DependencyInjection: Symfony 提供的独立依赖注入库 [官网](https://github.com/symfony/dependency-injection)
+*   Aura.DI: Aura 框架提供的独立依赖注入库 [官网](https://github.com/auraphp/Aura.Di)
+
+_其它_
 
 *   Pimple：一个小的依赖注入容器 [官网](http://pimple.sensiolabs.org/)
 *   Auryn：另一个依赖注入容器 [官网](https://github.com/rdlowrey/Auryn)
-*   Orno DI：另一个可伸缩的依赖注入容器 [官网](https://github.com/orno/di)
-*   PHP DI：一个使用注释实现的依赖注入 [官网](http://mnapoli.github.com/PHP-DI/)
-*   Acclimate：一个依赖注入容器和服务定位的通用接口 [官网](https://github.com/jeremeamia/acclimate)
+*   ~~Orno DI：另一个可伸缩的依赖注入容器 [官网](https://github.com/orno/di)~~
 
 ## 图像
 
@@ -281,6 +300,7 @@ _处理和存储密码的库和工具_
 *   Password Policy：一个PHP和JavaScript的密码策略库 [官网](https://github.com/ircmaxell/password-policy)
 *   Password Validator：校验和升级密码哈希的库 [官网](https://github.com/jeremykendall/password-validator)
 *   Zxcvbn PHP：一个基于Zxcvbn JS的现实的PHP密码强度估计库 [官网](https://github.com/bjeavons/zxcvbn-php)
+*   Zend Crypt: Zend Framework 提供的*散列/对称/非对称* 封装库 [官网](https://github.com/zendframework/zend-crypt)
 
 ## 代码分析
 
@@ -545,6 +565,7 @@ _过滤和验证数据的库_
 _开发REST-ful API的库和Web工具_
 
 *   Apigility：一个使用Zend Framework 2构建的API构建器 [官网](https://github.com/zfcampus/zf-apigility-skeleton)
+*   API Platform：基于Symfony框架的API构建器 [官网](https://api-platform.com/)
 *   Hateoas：一个HOATEOAS REST web服务库 [官网](https://github.com/willdurand/Hateoas)
 *   HAL：一个超文本应用语言（HAL)构建库 [官网](https://github.com/blongden/hal)
 *   Negotiation：一个内容协商库 [官网](https://github.com/willdurand/Negotiation)
