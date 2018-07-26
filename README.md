@@ -96,6 +96,7 @@ _来自Web开发框架的独立组件_
 *   Zend Framework 2 Components：ZF2组件 [官网](https://packages.zendframework.com/)
 *   Aura Components：PHP5.4组件包 [官网](http://auraphp.github.com/)
 *   Hoa Project：另一个PHP组件包 [官网](http://hoa-project.net/En/)
+*   Swoft: 基于 Swoole 原生协程的新时代 PHP 全栈式协程框架 [官网](https://www.swoft.org/) [GitHub] (https://github.com/swoft-cloud/swoft)
 
 ## 微型框架
 
