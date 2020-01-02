@@ -9,9 +9,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-php 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[Snappy：压缩工具的 PHP 扩展](http://hao.jobbole.com/snappy-php/)》
-  - 《[phy-yaf：一个用C语言编写的php框架](http://hao.jobbole.com/phy-yaf/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.importnew.com/)。可参考已整理的内容：
+  - 《[Snappy：压缩工具的 PHP 扩展](http://hao.importnew.com/snappy-php/)》
+  - 《[phy-yaf：一个用C语言编写的php框架](http://hao.importnew.com/phy-yaf/)》
 
 * * *
 
@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、[邢敏](http://github.com/dfghj44444)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[wispedia](http://www.jobbole.com/members/wispedia/)、[CmderQ](https://github.com/CmderQ)、[kevinskywalker](https://github.com/kevinskywalker)、You
+- 贡献者：[cucr](http://www.importnew.com/members/cucr)、[欧w](http://hao.importnew.com/author/ljxjxqht/)、[邢敏](http://github.com/dfghj44444)、[冰斌](http://hao.importnew.com/author/libing1209/)、[wispedia](http://www.importnew.com/members/wispedia/)、[CmderQ](https://github.com/CmderQ)、[kevinskywalker](https://github.com/kevinskywalker)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * 整理超过 20 个资源后，可在伯乐在线上开通打赏；
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [官奖励详情网](http://hao.jobbole.com/rewards/)
+* [官奖励详情网](http://hao.importnew.com/rewards/)
 
 * * * -->
 
@@ -79,7 +79,7 @@ _Web开发框架_
 *   Yii2： 另一个PHP框架 [官网](https://github.com/yiisoft/yii2/)
 *   Nette： 另一个由个体组件组成的框架 [官网](http://nette.org/)
 *   PPI Framework 2：一个互操作性框架 [官网](http://www.ppi.io/)
-*   [Phalcon](http://hao.jobbole.com/phalcon/)：通过C扩展实现的框架 [官网](http://phalconphp.com/en/)、[Github](https://github.com/phalcon/cphalcon)
+*   [Phalcon](http://hao.importnew.com/phalcon/)：通过C扩展实现的框架 [官网](http://phalconphp.com/en/)、[Github](https://github.com/phalcon/cphalcon)
 
 ## 其他框架
 
@@ -118,7 +118,7 @@ _其他相关的微型框架和路由_
 *   Slim Skeleton：Slim架构 [官网](https://github.com/codeguy/Slim-Skeleton)
 *   Slim View：Slim的自定义视图集合 [官网](https://github.com/codeguy/Slim-Views)
 *   Slim Middleware：Slim的自定义中间件集合 [官网](https://github.com/codeguy/Slim-Middleware)
-*   [phy-yaf](http://hao.jobbole.com/phy-yaf/)：一个用C语言编写的php框架 [官网](http://www.php.net/manual/en/book.yaf.php)
+*   [phy-yaf](http://hao.importnew.com/phy-yaf/)：一个用C语言编写的php框架 [官网](http://www.php.net/manual/en/book.yaf.php)
 
 ## 模板
 
@@ -595,7 +595,7 @@ _项目部署库_
 
 _国际化（I18n）和本地化（L10n）_
 
-*   [Aura.Intl](http://hao.jobbole.com/aura-intl/)：[官网](https://github.com/auraphp/Aura.Intl)
+*   [Aura.Intl](http://hao.importnew.com/aura-intl/)：[官网](https://github.com/auraphp/Aura.Intl)
 
 ## 第三方API
 
@@ -619,7 +619,7 @@ _访问第三方API的库_
 _帮组构建PHP扩展的库_
 
 *   Zephir：用于开发PHP扩展，且介于PHP和C++之间的编译语言 [官网](https://github.com/phalcon/zephir)
-*   [PHP CPP](http://hao.jobbole.com/php-cpp/)：一个开发PHP扩展的C++库 [官网](http://www.php-cpp.com/)
+*   [PHP CPP](http://hao.importnew.com/php-cpp/)：一个开发PHP扩展的C++库 [官网](http://www.php-cpp.com/)
 
 ## 杂项
 
@@ -714,7 +714,7 @@ _支持PHP的集成开发环境_
 
 *   Netbeans：一个支持PHP和HTML5的IDE [官网](https://netbeans.org/)
 *   Eclipse for PHP Developers：一个基于Eclipse平台的PHP IDE [官网](https://www.eclipse.org/downloads/)
-*   [PhpStorm](http://hao.jobbole.com/phpstorm/)：一个商业PHP IDE [官网](http://www.jetbrains.com/phpstorm/)
+*   [PhpStorm](http://hao.importnew.com/phpstorm/)：一个商业PHP IDE [官网](http://www.jetbrains.com/phpstorm/)
 *   [Sublime Text] ：一个轻量级的PHP IDE [官网](http://www.sublimetext.com/)
 
 ## Web应用
