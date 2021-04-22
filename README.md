@@ -600,7 +600,7 @@ _访问第三方API的库_
 
 ## 扩展
 
-_帮组构建PHP扩展的库_
+_帮助构建PHP扩展的库_
 
 *   Zephir：用于开发PHP扩展，且介于PHP和C++之间的编译语言 [官网](https://github.com/phalcon/zephir)
 *   [PHP CPP](http://hao.importnew.com/php-cpp/)：一个开发PHP扩展的C++库 [官网](http://www.php-cpp.com/)
